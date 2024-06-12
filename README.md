@@ -1,0 +1,2 @@
+# azure
+Notes on Azure 
